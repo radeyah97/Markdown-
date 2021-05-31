@@ -10,7 +10,6 @@ Markdown
  You are free to use this image on your website, templates etc, Please provide us with an attribution link
 
 
-
 Examples of Markdown
 Example #1
 There is a broker in the market, having several clients who deal through him. Now the broker wants to increase the sales volume of some set of securities. For that, he decided to sell the security to his client at a price that is lower than the selling price or the highest bid prices among the brokers in the securities market. He sold the shares of A ltd company at the price of $ 35 per share to his clients. He purchased the same stock in the broker market at a high price of $ 50 per share. Discuss the spread which arises due to the price difference between the selling price to the clients of the security and buying price of the same security from the broker market.
